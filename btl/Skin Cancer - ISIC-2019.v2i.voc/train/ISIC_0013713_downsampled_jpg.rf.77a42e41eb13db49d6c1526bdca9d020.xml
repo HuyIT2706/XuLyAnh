@@ -1,0 +1,32 @@
+<annotation>
+	<folder></folder>
+	<filename>ISIC_0013713_downsampled_jpg.rf.77a42e41eb13db49d6c1526bdca9d020.jpg</filename>
+	<path>ISIC_0013713_downsampled_jpg.rf.77a42e41eb13db49d6c1526bdca9d020.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Skin-Cancer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>261</xmin>
+			<xmax>375</xmax>
+			<ymin>268</ymin>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+		<tags>
+			<tag>Cancer</tag>
+		</tags>
+	</metadata>
+</annotation>
