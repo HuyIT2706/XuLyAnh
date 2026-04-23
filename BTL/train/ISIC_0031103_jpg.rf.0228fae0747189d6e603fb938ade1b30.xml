@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ISIC_0031103_jpg.rf.0228fae0747189d6e603fb938ade1b30.jpg</filename>
+	<path>ISIC_0031103_jpg.rf.0228fae0747189d6e603fb938ade1b30.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vascular lesion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>209</xmin>
+			<xmax>399</xmax>
+			<ymin>152</ymin>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

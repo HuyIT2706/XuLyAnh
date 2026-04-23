@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ISIC_0000371_jpg.rf.45c442a74b2540aa4cd2c719cbb319cb.jpg</filename>
+	<path>ISIC_0000371_jpg.rf.45c442a74b2540aa4cd2c719cbb319cb.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nevus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>182</xmin>
+			<xmax>481</xmax>
+			<ymin>32</ymin>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

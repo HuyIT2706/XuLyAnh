@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ISIC_0026865_jpg.rf.361d2f40d934cbe47b70a3acaad3b6e4.jpg</filename>
+	<path>ISIC_0026865_jpg.rf.361d2f40d934cbe47b70a3acaad3b6e4.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>basal cell carcinoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>150</xmin>
+			<xmax>473</xmax>
+			<ymin>148</ymin>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ISIC_0030830_jpg.rf.1ded7bb3a5ce6e766c9fb7c787fcc207.jpg</filename>
+	<path>ISIC_0030830_jpg.rf.1ded7bb3a5ce6e766c9fb7c787fcc207.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dermatofibroma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>143</xmin>
+			<xmax>623</xmax>
+			<ymin>33</ymin>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
