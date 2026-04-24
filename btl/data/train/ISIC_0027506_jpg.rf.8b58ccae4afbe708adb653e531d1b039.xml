@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ISIC_0027506_jpg.rf.8b58ccae4afbe708adb653e531d1b039.jpg</filename>
+	<path>ISIC_0027506_jpg.rf.8b58ccae4afbe708adb653e531d1b039.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>squamous cell carcinoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>115</xmin>
+			<xmax>508</xmax>
+			<ymin>87</ymin>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

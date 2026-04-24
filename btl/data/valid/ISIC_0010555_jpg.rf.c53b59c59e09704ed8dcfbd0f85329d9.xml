@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ISIC_0010555_jpg.rf.c53b59c59e09704ed8dcfbd0f85329d9.jpg</filename>
+	<path>ISIC_0010555_jpg.rf.c53b59c59e09704ed8dcfbd0f85329d9.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>melanoma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>299</xmin>
+			<xmax>575</xmax>
+			<ymin>176</ymin>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
