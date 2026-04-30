@@ -25,6 +25,8 @@ nest-asyncio==1.6.0
 networkx==3.4.2
 numpy==1.26.4
 opencv-python==4.9.0.80
+opencv-python-headless==4.9.0.80
+albumentations==1.4.18
 packaging==26.0
 parso==0.8.6
 pillow==10.2.0
