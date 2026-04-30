@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ISIC_0027172_jpg.rf.a4f8ea061e6432c1c40bef08a8649305.jpg</filename>
+	<path>ISIC_0027172_jpg.rf.a4f8ea061e6432c1c40bef08a8649305.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>actinic keratosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>185</xmin>
+			<xmax>530</xmax>
+			<ymin>116</ymin>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ISIC_0025099_jpg.rf.fdd329470e84c619906aba9c4bbc6997.jpg</filename>
+	<path>ISIC_0025099_jpg.rf.fdd329470e84c619906aba9c4bbc6997.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pigmented benign keratosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>138</xmin>
+			<xmax>458</xmax>
+			<ymin>173</ymin>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>

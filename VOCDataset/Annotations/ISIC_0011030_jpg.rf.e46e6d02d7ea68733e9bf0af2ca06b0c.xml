@@ -1,0 +1,29 @@
+<annotation>
+	<folder></folder>
+	<filename>ISIC_0011030_jpg.rf.e46e6d02d7ea68733e9bf0af2ca06b0c.jpg</filename>
+	<path>ISIC_0011030_jpg.rf.e46e6d02d7ea68733e9bf0af2ca06b0c.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>seborrheic keratosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>186</xmin>
+			<xmax>478</xmax>
+			<ymin>241</ymin>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+	<metadata>
+	</metadata>
+</annotation>
