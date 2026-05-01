@@ -1,5 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>ISIC_0010413_jpg.rf.1d2351c37ba4dba32b80e966b7723b35.jpg</filename>
 	<path>ISIC_0010413_jpg.rf.1d2351c37ba4dba32b80e966b7723b35.jpg</path>
 	<source>
@@ -21,7 +22,7 @@
 			<xmin>225</xmin>
 			<xmax>604</xmax>
 			<ymin>134</ymin>
-			<ymax>641</ymax>
+			<ymax>640</ymax>
 		</bndbox>
 	</object>
 	<metadata>
