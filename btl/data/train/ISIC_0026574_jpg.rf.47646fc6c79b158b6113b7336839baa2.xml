@@ -1,4 +1,3 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
 	<folder />
 	<filename>ISIC_0026574_jpg.rf.47646fc6c79b158b6113b7336839baa2.jpg</filename>
@@ -12,19 +11,6 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>basal cell carcinoma</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>564</xmin>
-			<xmax>568</xmax>
-			<ymin>114</ymin>
-			<ymax>115</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>basal cell carcinoma</name>
 		<pose>Unspecified</pose>

@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>ISIC_0026275_jpg.rf.d97d15a5b93638bcadf5c1bb52866204.jpg</filename>
 	<path>ISIC_0026275_jpg.rf.d97d15a5b93638bcadf5c1bb52866204.jpg</path>
 	<source>
@@ -11,19 +11,6 @@
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>basal cell carcinoma</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<occluded>0</occluded>
-		<bndbox>
-			<xmin>268</xmin>
-			<xmax>270</xmax>
-			<ymin>356</ymin>
-			<ymax>357</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>basal cell carcinoma</name>
 		<pose>Unspecified</pose>
