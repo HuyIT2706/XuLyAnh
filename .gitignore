@@ -8,3 +8,6 @@ lab4/lab4.ipynb
 lab2/Baitap3.ipynb
 
 check_data copy.ipynb
+/checkpoints
+*.pth
+btl/checkpoin*/models/

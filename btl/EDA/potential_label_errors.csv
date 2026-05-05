@@ -1,0 +1,4 @@
+image,label,width,height,xmin,ymin,xmax,ymax,rel_area,aspect_ratio,center_x,center_y,is_near_edge,abs_area,size_category
+ISIC_0027294_jpg.rf.7cfdc8012b3f9a7ae8e6055ebd502cc8.jpg,squamous cell carcinoma,640,640,250,278,350,396,2.880859375,0.847457627118644,0.46875,0.5265625,False,11800,Large
+ISIC_0029930_jpg.rf.8cc9e11c10b13f057fab038a74024232.jpg,actinic keratosis,640,640,52,220,134,254,0.6806640625,2.411764705882353,0.1453125,0.3703125,False,2788,Medium
+ISIC_0030770_jpg.rf.1910c13731bf714906427da997164f54.jpg,vascular lesion,640,640,286,262,353,344,1.34130859375,0.8170731707317073,0.49921875,0.4734375,False,5494,Medium

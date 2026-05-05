@@ -1,8 +1,8 @@
 
-Data - v4 2026-04-24 9:29am
+Data - v5 Dataset V2
 ==============================
 
-This dataset was exported via roboflow.com on April 24, 2026 at 2:30 AM GMT
+This dataset was exported via roboflow.com on May 2, 2026 at 1:05 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,15 +17,13 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 4023 images.
+The dataset includes 1026 images.
 Data are annotated in Pascal VOC format.
 
 The following pre-processing was applied to each image:
 * Auto-orientation of pixel data (with EXIF-orientation stripping)
 * Resize to 640x640 (Stretch)
 
-The following augmentation was applied to create 3 versions of each source image:
-* 50% probability of horizontal flip
-* 50% probability of vertical flip
+No image augmentation techniques were applied.
 
 
